@@ -258,7 +258,7 @@ max-height: 100vh;
     position: absolute;
     left: var(--left);
     content: "Happy New Year! Happy New Year!";
-    font-size: 96px;
+    font-size: 66px;
     width: max-content;
     color: hsl(var(--hue), 75%, 75%);
   }
@@ -417,7 +417,7 @@ max-height: 100vh;
         .emboss-txt {
           filter: blur(0.5px);
           position: relative;
-          font-size: 100px;
+          font-size: 180px;
           font-family: BAUHS93;
           letter-spacing: 5px;
           color:gold;
@@ -452,7 +452,7 @@ max-height: 100vh;
         }
         .emboss-txt::after {
           content: "2022";
-          font-size: 100px;
+          font-size: 180px;
           letter-spacing: 5px;
           font-family: BAUHS93;
           position: relative;
