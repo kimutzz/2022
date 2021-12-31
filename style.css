@@ -225,6 +225,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     min-height: 80vh;
+max-height: 100vh;
     display: grid;
     place-items: center;
     perspective: 500px;
