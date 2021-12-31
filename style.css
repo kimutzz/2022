@@ -4,6 +4,9 @@ body {
     background: #000;
     overflow: hidden;
   }
+.space {
+  height: 100px;
+}
   
   .pyro > .before, .pyro > .after {
     position: absolute;
