@@ -249,7 +249,7 @@ max-height: 100vh;
     position: absolute;
     float: left;
     transform: translate(-50%, -7%) rotateY(var(--angle)) translateZ(190px);
-    width: 55px;
+    width: 60px;
     height: 120px;
     overflow: hidden;
   }
@@ -258,7 +258,7 @@ max-height: 100vh;
     position: absolute;
     left: var(--left);
     content: "Happy New Year! Happy New Year!";
-    font-size: 66px;
+    font-size: 70px;
     width: max-content;
     color: hsl(var(--hue), 75%, 75%);
   }
