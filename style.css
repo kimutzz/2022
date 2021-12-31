@@ -452,7 +452,7 @@ max-height: 100vh;
         }
         .emboss-txt::after {
           content: "2022";
-          font-size: 180px;
+          font-size: 120px;
           letter-spacing: 5px;
           font-family: BAUHS93;
           position: relative;
